@@ -23,3 +23,5 @@
 - Login
 - Logout
 
+## 푸터
+- footer.md 파일 추가
